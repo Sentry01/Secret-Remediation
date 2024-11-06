@@ -12,11 +12,10 @@ In today’s digital age, the security of sensitive systems and information is m
 
 The real cost of remediating leaked secrets is often misunderstood or underestimated by engineering and security teams alike. The purpose of this document is to raise awareness to the hidden costs and activities that are associated with mismanaged secrets in repositories or code. 
 
-Through research and conversations with a number of large enterprise organizations, the remediation of secrets often takes a number of days through to weeks and could cost an estimated [$3,000-$16,000 per secret remediation](#bookmark=id.uarvg5hkwyol)
+Through research and conversations with a number of large enterprise organizations, the remediation of secrets often takes a number of days through to weeks and could cost an estimated [$3,000-$16,000 per secret remediation](https://sentry01.github.io/Secret-Remediation/#the-cost-of-remediation)
 
 In this brief, we will discuss the importance of proper secret management to prevent leaks and the steps that organizations need to take when they find a secret in the code. 
 
-## 
 
 ## **What are secrets?**
 
