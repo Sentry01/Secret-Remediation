@@ -4,7 +4,7 @@ Version 1.4
 5 September 2024
 
 Shlomi Shaki,  @Sentry01   
-Senior Application Security Executive  
+GitHub Copilot GTM Lead, Asia Pacific & Japan  
 
 ## **Introduction**
 
@@ -77,7 +77,6 @@ Removing secrets from code and Git history can be complex and has many considera
 7. **Optional \- leverage for deception**. Potentially use the innocuous secrets or canary tokens in the code for honeypots or deception tactics.  
    
 
-## 
 
 ## **The cost of remediation**
 
