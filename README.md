@@ -41,7 +41,7 @@ Here are some of the most common best practices for secure secret management:
 
 Detailed best practices on managing secrets are out of scope for this document, however, more can be read on this topic from OWASP here: [Secrets Management \- OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/cheatsheets/Secrets_Management_Cheat_Sheet.html). 
 
-You can also read more from Microsoft Azure Key Vault here [Best practices for secrets management | Microsoft Learn](https://learn.microsoft.com/en-us/azure/key-vault/secrets/secrets-best-practices)
+You can also read more from Microsoft Azure Key Vault here [Best practices for secrets management | Microsoft Learn] (https://learn.microsoft.com/en-us/azure/key-vault/secrets/secrets-best-practices).
 
 ## **I found a secret in the code repository \-  now what?** 
 
